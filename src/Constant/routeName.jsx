@@ -1,0 +1,5 @@
+export const routeSignin = '/'
+export const routeDashboard = '/dashboard'
+export const routeCreate = '/createConsul'
+export const routeFirst = '/firstVaccination'
+export const routerRegis = '/registrasi/:id'
